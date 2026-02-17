@@ -69,7 +69,7 @@ int currentMood = MOOD_NORMAL;
 
 String city = "Idukki"; //city name
 const char* countryCode = "IN"; //country code
-String apiKey = "45fcf5807a5920e2006c2b8a077d423f"; //openweathermap api
+String apiKey = "45fcf5807a5920e22b8a077d423f"; //openweathermap api
 unsigned long lastWeatherUpdate = 0;
 float temperature = 0.0;
 float feelsLike = 0.0;
